@@ -1,0 +1,126 @@
+{
+	"navbar": {
+		"stelle": "h—Cz— Xb—a— Bz—a— X,—Xz— <v—Zx—",
+		"resume": "Xv—Nz— Xc—a— Bv—Cz—",
+		"nath_logogram": "Bz—Z,— l Xb—Cz— Mb—Cz— M,—Bz— Xn—Mb—"
+	},
+	"general": {
+		"personal_info": "h—Cz— Wq—— Bm—Zx— Zx—g— Cm—Xx— Bv—Cz— Vz—Nb—",
+		"skill": "X,—Xz— Mx—Vx—",
+		"greeting_message": "Zv—Mx— Xb—Cz— ! d—Bz— X,—V,— . Cv—Vx— Mz—Zb— <c—a— Bx—Vz— . Xc—a— Nz—Cz— Mm—Cb— Cv—Cn— Xz—Xz— Zx—k— !",
+		"greeting_messages": [
+			"Zv—Mx— Xb—Cz— ! d—Bz— X,—V,— . Cv—Vx— Mz—Zb— <c—a— Bx—Vz— . Xc—a— Nz—Cz— Mm—Cb— Cv—Cn— Xz—Xz— Zx—k— !",
+			"Zv—Mx— Xb—Cz— ! k—Cz— Zc—Cz— Bx—a— d—Nx—",
+			"Xm—a— Xx—Mz— l Nz—k— Zz—Zz— <b—Cb— <,—a— Mn—Xx— !"
+		],
+		"prog_lang": {
+			"git": "Mx—V,— Zz—Nn—",
+			"java": "Vz—a— Cz—Nz—",
+			"go": "Mb—Cz— Xn—Bm—",
+			"react": "Xx—Mz— Zn—j— Vv—a— Zv—s—",
+			"vue": "Cx—Mc— Vv—a— Zv—s—",
+			"python": "Nz—Vz— <m—g—",
+			"html": "Zv—Xv— <x—Zz— Zv—Zb— Zn—Zx— 5",
+			"css": "Xx—a— Zv—s— Zv—s—",
+			"js": "Vz—a— Cz—Nz— X,—a— M,—Xz— Xx—Mn—",
+			"r": "Zz—Xx—"
+		},
+		"resume": "Xv—Nz— Xc—a— Bv—Cz—",
+		"download": "<z—Vc— Xb—Bz— Zc—Z,—",
+		"click_me": "M,—Xz— Xx—Cm— Bx—Vz—",
+		"last_updated": {
+			"name": "Xz—Cx— Zz—Zn— <v—V,—",
+			"value": "Vc—Xz— Z,—g— 9 l 2024"
+		},
+		"font_format_description": "( . <x—a— <x—a— Zv—d— Cb—g— <,—a— Cm—a— Bn—C,— )",
+		"how_to_use_nath_logogram": "Zz—Mc— <c—a— Zc—Cx— Bz—Z,— Xb—Cz— Mb—Cz— M,—Bz— Xn—Mb—",
+		"hieroglyph": "Zv—Nz— Xb—Nz— M,—Bz— Xx—Cc—",
+		"hieroglyph_form": {
+			"name": "Zv—Nz— Xb—Nz— M,—Bz— Xx—Cc— Cm—Zb— ( <z—Xz— Zx—Zn— )",
+			"type": {
+				"full": "Cc—Zc—",
+				"upper": "Zz—Zn— h—Cz—",
+				"lower": "Xb—Vc— d—Nz—",
+				"left": "Xv—Cc—",
+				"right": "Xz—<z— Zx—k—",
+				"upper_left": "Zz—Zn— h—Cz— Xv—Cc—",
+				"upper_right": "Zz—Zn— h—Cz— Xz—<z— Zx—k—",
+				"lower_left": "Xb—Vc— d—Nz— Xv—Cc—",
+				"lower_right": "Xb—Vc— d—Nz— Xz—<z— Zx—k—"
+			},
+			"character": {
+				"full": "A—— l S—— l D—— l F—— l G—— l H—— l J—— l K—— ",
+				"upper": "Q—— l W—— l E—— l R—— l T—— l Y—— l U—— l I——",
+				"lower": "q—— l w—— l e—— l r—— l t—— l y—— l u—— l i——",
+				"left": "a—— l s—— l d—— l f—— l g—— l h—— l j—— l k——",
+				"right": "—a— l —s— l —d— l —f— l —g— l —h— l —j— l —k—",
+				"upper_left": "Z—— l X—— l C—— l V—— l B—— l N—— l M—— l <——",
+				"upper_right": "—Z— l —X— l —C— l —V— l —B— l —N— l —M— l —<—",
+				"lower_left": "z—— l x—— l c—— l v—— l b—— l n—— l m—— l ,——",
+				"lower_right": "—z— l —x— l —c— l —v— l —b— l —n— l —m— l —,—"
+			},
+			"key_button": {
+				"full": "A S D F G H J K",
+				"upper": "Q W E R T Y U I",
+				"lower": "q w e r t y u i",
+				"left": "a s d f g h j k",
+				"right": "a s d f g h j k",
+				"upper_left": "Z X C V B N M <",
+				"upper_right": "Z X C V B N M <",
+				"lower_left": "z x c v b n m ,",
+				"lower_right": "z x c v b n m ,"
+			}
+		},
+		"specific_character": {
+			"name": "X,—a— Nv—Nz— Xx—a— Cx—Zm— Mz—a— Xn—Mm— k—Nz—",
+			"value": {
+				",": "l",
+				"<": "L",
+				"o": "o",
+				"O": "O",
+				"p": "p",
+				"P": "P"
+			}
+		},
+		"character_position": {
+			"name": "Mz—a— Xn—Mm— k—Nz— Nb—Cz— Xx—a— Vz—Cb—",
+			"label": {
+				"full": "Cc—Zc—",
+				"left_right": "Xv—Cc— - Xz—<z— Zx—k—",
+				"upper_lower": "Zz—Zn— h—Cz— - Xb—Vc— d—Nz—",
+				"upper": "Zz—Zn— h—Cz—",
+				"right": "Xz—<z— Zx—k—",
+				"lower": "Xb—Vc— d—Nz—",
+				"left": "Xv—Cc—",
+				"grid": "M,—Bz— Xx—M,—"
+			},
+			"example": {
+				"full": "A—— l S—— l D——",
+				"left_right": "a—d— l k—s— l h—f—",
+				"upper_lower": "Qw—— l Er—— l Ty——",
+				"upper": "Qx—c— l Tb—,— l Iv—m—",
+				"right": "Nm—a— l Vc—g— l Cz—d—",
+				"lower": "Ci—B— l Vr—N— l Xe—V—",
+				"left": "g—Zx— l j—Bm l f—M,—",
+				"grid": "Zx—Cv— l Bn—M,— l Xv—N,—"
+			}
+		},
+		"spacing_each_half_character": "X,—Xz— Nz—Nx— Xx—Xm— Zx—Xv— Zz—Nc— Mz—a— Xn—Mm— k—Nz—"
+	},
+	"personal_info": {
+		"name": "Bv—Zb—",
+		"nickname": "Bx—j— Bv—Zb—",
+		"address": "Zn—Z,— <,—Bz— Xv—Nx—",
+		"phone": "Cb—g—",
+		"email": "Zx—Zz— Bv—Vc—",
+		"instagram": "Zz—Zz— Vx—Zz—"
+	},
+	"data": {
+		"name": "Xc—a— Nz—Cz— Mm—g—   Mn—Vc— Vn—Xm—",
+		"nickname": "Bz—Z,—",
+		"address": "<b—g— Nc—a— Xx—Mz— l Nn—Xm— Mm—Zm— 10600",
+		"phone": "0927815935",
+		"email": "Xc—a— Nz—Cz— Mm—g—.Mn—Vc— Vn—Xm— @ Vx—Zz— Bv—Vc— . Mm—Zb—",
+		"instagram": "Bz—Z,— Xz—Bz— Zx—j— Zc—Cz—"
+	}
+}
