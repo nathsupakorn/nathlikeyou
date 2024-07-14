@@ -60,8 +60,8 @@ export default function Home() {
           { icon: faGolang, label: dict.general.prog_lang.go },
           { icon: faReact, label: dict.general.prog_lang.react },
           { icon: faVuejs, label: dict.general.prog_lang.vue },
-        ].map((v) => {
-          return <div className="flex flex-col justify-center items-center w-full gap-2">
+        ].map((v, idx) => {
+          return <div key={idx} className="flex flex-col justify-center items-center w-full gap-2">
             <b className="text-xl md:text-2xl lg:text-3xl xl:text-4xl">{v.label}</b>
             <FontAwesomeIcon className="text-6xl md:text-7xl lg:text-8xl xl:text-9xl" icon={v.icon} />
           </div>
@@ -74,8 +74,8 @@ export default function Home() {
           { icon: faCss3, label: dict.general.prog_lang.css },
           { icon: faSquareJs, label: dict.general.prog_lang.js },
           { icon: faRProject, label: dict.general.prog_lang.r },
-        ].map((v) => {
-          return <div className="flex flex-col justify-center items-center w-full gap-2">
+        ].map((v, idx) => {
+          return <div key={idx} className="flex flex-col justify-center items-center w-full gap-2">
             <FontAwesomeIcon className="text-6xl md:text-7xl lg:text-8xl xl:text-9xl" icon={v.icon} />
             <b className="text-wrap text-xl md:text-2xl lg:text-3xl xl:text-4xl">{v.label}</b>
           </div>
@@ -90,7 +90,7 @@ export default function Home() {
         </CardHeader>
         <CardBody>
           <div className="grid grid-cols-6 gap-4">
-            {(Object.keys(dict.data)).map((attr) => (
+            {(Object.keys(dict.data)).map((attr, idx) => (
               <>
                 <b className="col-span-2">{dict.personal_info[attr as keyof typeof dict.personal_info]}</b>
                 <div className="col-span-4">{dict.data[attr as keyof typeof dict.data]}</div>
