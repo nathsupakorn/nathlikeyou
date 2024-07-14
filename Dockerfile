@@ -1,5 +1,5 @@
 # Use Node.js v20.15 on Alpine
-FROM node:20.15.1-alpine
+FROM node:20.15
 
 # Set the working directory
 WORKDIR /app
